@@ -1,8 +1,6 @@
-# v2dock-kubesail
+# 
 
-v2dock for Kubesail
-
-> 在 Kubesail 上同时部署一个 v2ray 和一个 v2ray + WebSocket + TLS 服务端
+> 在 Kubesail 
 
 一键部署地址：<a href="https://kubesail.com/template/kullex/v2dock-kubesail"><img src="https://img.shields.io/badge/1--Click-Deploy%20on%20Kubernetes-blue" /></a>
 
